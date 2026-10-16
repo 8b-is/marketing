@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="border_zeno" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#00E5C9"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0B0914" stroke="url(#border_zeno)" stroke-width="10"/>
+  
+          <polygon points="256,115 376,170 356,315 256,390 156,315 136,170" fill="none" stroke="#FFD700" stroke-width="12" stroke-linejoin="round"/>
+          <path d="M 156 230 L 240 255 L 285 210 L 356 260" fill="none" stroke="#00E5C9" stroke-width="6"/>
+          <text x="256" y="275" text-anchor="middle" font-family="sans-serif" font-size="84" font-weight="800" fill="#FFD700">禅</text>
+        
+  <text x="256" y="442" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="800" fill="#F5ECFF">ZENO (銭・禅・善)</text>
+  <text x="256" y="472" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#FFD700" letter-spacing="1.5">KINTSUGI SOVEREIGN NEO-BANK</text>
+</svg>

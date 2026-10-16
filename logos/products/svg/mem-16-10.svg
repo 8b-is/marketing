@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="border_mem-16-10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5C9"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0B0914" stroke="url(#border_mem-16-10)" stroke-width="10"/>
+  
+          <rect x="126" y="195" width="64" height="110" rx="10" fill="none" stroke="#FF6AC1" stroke-width="8"/>
+          <rect x="214" y="170" width="76" height="160" rx="12" fill="none" stroke="#FFD700" stroke-width="10"/>
+          <rect x="314" y="135" width="88" height="230" rx="14" fill="none" stroke="#00E5C9" stroke-width="12"/>
+          <text x="158" y="258" text-anchor="middle" font-family="monospace" font-size="22" fill="#FF6AC1">16</text>
+          <text x="252" y="258" text-anchor="middle" font-family="monospace" font-size="24" fill="#FFD700">32</text>
+          <text x="358" y="258" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="#00E5C9">8K</text>
+        
+  <text x="256" y="442" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="800" fill="#F5ECFF">MEM|16-10</text>
+  <text x="256" y="472" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#00E5C9" letter-spacing="1.5">16B ──► 32B ~~► 8K HORIZON</text>
+</svg>

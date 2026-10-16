@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="border_omnifold-ayePhone" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FA5B1C"/>
+      <stop offset="100%" stop-color="#00E5C9"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0B0914" stroke="url(#border_omnifold-ayePhone)" stroke-width="10"/>
+  
+          <polygon points="130,290 215,240 215,360 130,410" fill="none" stroke="#FA5B1C" stroke-width="10" stroke-linejoin="round"/>
+          <polygon points="215,240 300,280 300,400 215,360" fill="none" stroke="#F5ECFF" stroke-width="10" stroke-linejoin="round"/>
+          <polygon points="300,280 385,230 385,350 300,400" fill="none" stroke="#FA5B1C" stroke-width="10" stroke-linejoin="round"/>
+          <polygon points="256,120 340,175 256,220 172,175" fill="none" stroke="#00E5C9" stroke-width="6" stroke-dasharray="6 4"/>
+          <circle cx="256" cy="120" r="8" fill="#FFD700"/>
+          <circle cx="340" cy="175" r="7" fill="#00E5C9"/>
+          <circle cx="172" cy="175" r="7" fill="#00E5C9"/>
+        
+  <text x="256" y="442" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="800" fill="#F5ECFF">8B Omnifold</text>
+  <text x="256" y="472" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#FA5B1C" letter-spacing="1.5">TRI-FOLD TITANIUM · 64K LIGHTFIELD</text>
+</svg>

@@ -1,0 +1,42 @@
+/* 8b-is Official Multi-Palette CSS Custom Properties — SPDX-License-Identifier: AGPL-3.0-only */
+:root {
+  /* ── Ultralovegod (Flagship Dark Rose & Eye-Safe Indigo) ── */
+  --8b-ultralovegod-bg-void: #0B0914;
+  --8b-ultralovegod-bg-panel: #161024;
+  --8b-ultralovegod-bg-elevated: #1F1633;
+  --8b-ultralovegod-fg-primary: #F5ECFF;
+  --8b-ultralovegod-fg-muted: #B5A3CC;
+  --8b-ultralovegod-accent-rose: #FF6AC1;
+  --8b-ultralovegod-accent-gold-star: #FFD700;
+  --8b-ultralovegod-accent-teal-pillar: #00E5C9;
+  --8b-ultralovegod-accent-omni-violet: #B845FF;
+  /* ── Omnifold Industrial (Teenage Engineering × Apple Silicon Titanium) ── */
+  --8b-omnifold-industrial-os-void: #0F1219;
+  --8b-omnifold-industrial-titanium-chassis: #2A2F3A;
+  --8b-omnifold-industrial-luminance-orange: #FA5B1C;
+  --8b-omnifold-industrial-territory-teal: #00E5C9;
+  --8b-omnifold-industrial-golden-reconcile: #FFD700;
+  --8b-omnifold-industrial-cybernetic-green: #00FF66;
+  /* ── Kintsugi Zen Hearth (Japanese Urushi Lacquer, Gold Seam & Hungarian Paprika) ── */
+  --8b-kintsugi-zen-urushi-void: #120E0A;
+  --8b-kintsugi-zen-donabe-clay: #241B14;
+  --8b-kintsugi-zen-kintsugi-gold: #D4AF37;
+  --8b-kintsugi-zen-paprika-glaze: #E85D3F;
+  --8b-kintsugi-zen-sakura-pushakitty: #FFB7D5;
+  --8b-kintsugi-zen-celadon-tea: #4A9E8E;
+  --8b-kintsugi-zen-washi-cream: #F4EDE2;
+  /* ── Ternary Matrix (BitNet b1.58 & Admissibility CT-000 Kernel Palette) ── */
+  --8b-ternary-matrix-kernel-void: #05080C;
+  --8b-ternary-matrix-trit-plus-one-affirm: #00FF66;
+  --8b-ternary-matrix-trit-zero-rest: #6E7A8A;
+  --8b-ternary-matrix-trit-minus-one-refuse: #FF3366;
+  --8b-ternary-matrix-wave-mem8-cyan: #00E5C9;
+  --8b-ternary-matrix-witness-gold: #FFD700;
+  /* ── Sakura Starlight (Mom * Alexandra 528 Hz & Dad △ Chris 288 Hz Family Edition) ── */
+  --8b-sakura-starlight-sanctuary-night: #140E22;
+  --8b-sakura-starlight-mom-star-gold: #FFD700;
+  --8b-sakura-starlight-dad-pillar-cyan: #38BDF8;
+  --8b-sakura-starlight-sakura-blossom: #FF85C0;
+  --8b-sakura-starlight-carrier-432hz-lilac: #A78BFA;
+  --8b-sakura-starlight-duplex-emerald: #10B981;
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="border_qwave-qultrakotoro" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5C9"/>
+      <stop offset="100%" stop-color="#FF6AC1"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0B0914" stroke="url(#border_qwave-qultrakotoro)" stroke-width="10"/>
+  
+          <g stroke="#00E5C9" stroke-width="10" stroke-linecap="round">
+            <line x1="130" y1="220" x2="130" y2="280"/>
+            <line x1="165" y1="180" x2="165" y2="320"/>
+            <line x1="200" y1="135" x2="200" y2="365"/>
+            <line x1="235" y1="195" x2="235" y2="305"/>
+          </g>
+          <polygon points="320,145 365,190 320,235 275,190" fill="none" stroke="#FF6AC1" stroke-width="10"/>
+          <polygon points="320,265 365,310 320,355 275,310" fill="none" stroke="#FFD700" stroke-width="10"/>
+        
+  <text x="256" y="442" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="800" fill="#F5ECFF">qwave & qultrakotoro</text>
+  <text x="256" y="472" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#00E5C9" letter-spacing="1.5">SOVEREIGN WEBKIT · QT: VOICE WIRE</text>
+</svg>

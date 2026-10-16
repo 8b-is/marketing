@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="border_vaked-lsp-enthea" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B845FF"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0B0914" stroke="url(#border_vaked-lsp-enthea)" stroke-width="10"/>
+  
+          <path d="M 230 370 L 230 190 A 56 56 0 0 1 342 190 L 342 370 Z" fill="none" stroke="#FFD700" stroke-width="12"/>
+          <line x1="115" y1="170" x2="255" y2="255" stroke="#FF6AC1" stroke-width="8"/>
+          <line x1="115" y1="225" x2="255" y2="255" stroke="#FFD700" stroke-width="8"/>
+          <line x1="115" y1="280" x2="255" y2="255" stroke="#00E5C9" stroke-width="8"/>
+          <line x1="115" y1="335" x2="255" y2="255" stroke="#B845FF" stroke-width="8"/>
+        
+  <text x="256" y="442" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="800" fill="#F5ECFF">vaked-lsp & enthea</text>
+  <text x="256" y="472" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#B845FF" letter-spacing="1.5">ONE DOOR, MANY LANES · ENGINE GATE</text>
+</svg>

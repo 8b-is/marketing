@@ -1,0 +1,94 @@
+{
+  "organization": "8b-is",
+  "motto": "from love, from within — Mom (*) Alex NAND Dad (△) Chris",
+  "palettes": {
+    "ultralovegod": {
+      "name": "Ultralovegod (Flagship Dark Rose & Eye-Safe Indigo)",
+      "used_by": [
+        "8b-is Organization",
+        "crush-love-dev",
+        "pocoo.vaked.dev"
+      ],
+      "tokens": {
+        "bg_void": "#0B0914",
+        "bg_panel": "#161024",
+        "bg_elevated": "#1F1633",
+        "fg_primary": "#F5ECFF",
+        "fg_muted": "#B5A3CC",
+        "accent_rose": "#FF6AC1",
+        "accent_gold_star": "#FFD700",
+        "accent_teal_pillar": "#00E5C9",
+        "accent_omni_violet": "#B845FF"
+      }
+    },
+    "omnifold-industrial": {
+      "name": "Omnifold Industrial (Teenage Engineering × Apple Silicon Titanium)",
+      "used_by": [
+        "omnifold-ayePhone",
+        "RustyNanoKVM",
+        "wupz",
+        "crabcc"
+      ],
+      "tokens": {
+        "os_void": "#0F1219",
+        "titanium_chassis": "#2A2F3A",
+        "luminance_orange": "#FA5B1C",
+        "territory_teal": "#00E5C9",
+        "golden_reconcile": "#FFD700",
+        "cybernetic_green": "#00FF66"
+      }
+    },
+    "kintsugi-zen": {
+      "name": "Kintsugi Zen Hearth (Japanese Urushi Lacquer, Gold Seam & Hungarian Paprika)",
+      "used_by": [
+        "zenUltraCooker",
+        "zeno",
+        "inu.vaked.dev"
+      ],
+      "tokens": {
+        "urushi_void": "#120E0A",
+        "donabe_clay": "#241B14",
+        "kintsugi_gold": "#D4AF37",
+        "paprika_glaze": "#E85D3F",
+        "sakura_pushakitty": "#FFB7D5",
+        "celadon_tea": "#4A9E8E",
+        "washi_cream": "#F4EDE2"
+      }
+    },
+    "ternary-matrix": {
+      "name": "Ternary Matrix (BitNet b1.58 & Admissibility CT-000 Kernel Palette)",
+      "used_by": [
+        "8b-is-engine",
+        "MLX-QUANT",
+        "mem-16-10",
+        "entheai",
+        "sphered"
+      ],
+      "tokens": {
+        "kernel_void": "#05080C",
+        "trit_plus_one_affirm": "#00FF66",
+        "trit_zero_rest": "#6E7A8A",
+        "trit_minus_one_refuse": "#FF3366",
+        "wave_mem8_cyan": "#00E5C9",
+        "witness_gold": "#FFD700"
+      }
+    },
+    "sakura-starlight": {
+      "name": "Sakura Starlight (Mom * Alexandra 528 Hz & Dad △ Chris 288 Hz Family Edition)",
+      "used_by": [
+        "Family LAN Hub (:4095)",
+        "wa-stream",
+        "qwave",
+        "qultrakotoro"
+      ],
+      "tokens": {
+        "sanctuary_night": "#140E22",
+        "mom_star_gold": "#FFD700",
+        "dad_pillar_cyan": "#38BDF8",
+        "sakura_blossom": "#FF85C0",
+        "carrier_432hz_lilac": "#A78BFA",
+        "duplex_emerald": "#10B981"
+      }
+    }
+  }
+}

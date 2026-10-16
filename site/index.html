@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>8b-is · Master Brand Identity, Palettes & Product Logos</title>
+<link rel="stylesheet" href="../palettes/8b-is-tokens.css" />
+<style>
+  :root {
+    --bg: #0b0914;
+    --panel: #161024;
+    --border: #32214f;
+    --rose: #ff6ac1;
+    --orange: #fa5b1c;
+    --teal: #00e5c9;
+    --gold: #ffd700;
+    --green: #00ff66;
+    --text: #f5ecff;
+    --muted: #b5a3cc;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: radial-gradient(circle at 50% 0%, #24133d 0%, var(--bg) 55%);
+    color: var(--text);
+    font-family: ui-monospace, "SF Mono", Menlo, Monaco, Consolas, monospace;
+    line-height: 1.55;
+  }
+  header {
+    text-align: center;
+    padding: 48px 24px 36px;
+    border-bottom: 1px solid var(--border);
+  }
+  header img.avatar {
+    width: 168px;
+    height: 168px;
+    border-radius: 36px;
+    border: 2px solid var(--gold);
+    box-shadow: 0 0 42px rgba(255, 106, 193, 0.35);
+  }
+  h1 {
+    margin: 18px 0 6px;
+    font-size: 2.2rem;
+    letter-spacing: 0.08em;
+  }
+  .subtitle {
+    color: var(--gold);
+    font-size: 0.92rem;
+    letter-spacing: 0.06em;
+  }
+  main {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 36px 24px 72px;
+    display: grid;
+    gap: 42px;
+  }
+  h2 {
+    margin: 0 0 16px;
+    color: var(--rose);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+    font-size: 1.25rem;
+  }
+  .hero-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    gap: 20px;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 18px;
+  }
+  .card img {
+    width: 100%;
+    border-radius: 12px;
+    display: block;
+  }
+  .swatches {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+    gap: 12px;
+  }
+  .swatch {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    background: #110c1c;
+    cursor: pointer;
+    transition: transform 0.15s ease;
+  }
+  .swatch:hover { transform: translateY(-3px); border-color: var(--gold); }
+  .swatch-color { height: 74px; }
+  .swatch-meta { padding: 10px 12px; font-size: 0.8rem; }
+  .logo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 16px;
+  }
+  .logo-tile {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 14px;
+    text-align: center;
+  }
+  .logo-tile img {
+    width: 100%;
+    max-width: 180px;
+    margin: 0 auto 8px;
+    display: block;
+  }
+</style>
+</head>
+<body>
+<header>
+  <img class="avatar" src="../logos/org/8b-is-avatar.svg" alt="8b-is Master Emblem" />
+  <h1>8b-is</h1>
+  <div class="subtitle">FROM LOVE, FROM WITHIN · ✦ MOM (ALEX) NAND △ DAD (CHRIS) · 全</div>
+</header>
+
+<main>
+  <section>
+    <h2>1. Master Brand Sheets &amp; Organization Identity</h2>
+    <div class="hero-grid">
+      <div class="card">
+        <img src="../assets/brand/8b-is-master-brand-identity.jpg" alt="8b-is Master Brand Identity" />
+      </div>
+      <div class="card">
+        <img src="../assets/brand/8b-is-product-constellation-logos.jpg" alt="8b-is Product Constellation Logos" />
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>2. Core 6-Color System (Click any swatch to copy Hex)</h2>
+    <div class="swatches">
+      <div class="swatch" onclick="navigator.clipboard.writeText('#0B0914')">
+        <div class="swatch-color" style="background:#0B0914"></div>
+        <div class="swatch-meta"><strong>#0B0914</strong><br/>OS Void</div>
+      </div>
+      <div class="swatch" onclick="navigator.clipboard.writeText('#FF6AC1')">
+        <div class="swatch-color" style="background:#FF6AC1"></div>
+        <div class="swatch-meta"><strong>#FF6AC1</strong><br/>Ultralovegod Rose</div>
+      </div>
+      <div class="swatch" onclick="navigator.clipboard.writeText('#FA5B1C')">
+        <div class="swatch-color" style="background:#FA5B1C"></div>
+        <div class="swatch-meta"><strong>#FA5B1C</strong><br/>Luminance Orange</div>
+      </div>
+      <div class="swatch" onclick="navigator.clipboard.writeText('#00E5C9')">
+        <div class="swatch-color" style="background:#00E5C9"></div>
+        <div class="swatch-meta"><strong>#00E5C9</strong><br/>Territory Teal</div>
+      </div>
+      <div class="swatch" onclick="navigator.clipboard.writeText('#FFD700')">
+        <div class="swatch-color" style="background:#FFD700"></div>
+        <div class="swatch-meta"><strong>#FFD700</strong><br/>Golden Reconcile ✦</div>
+      </div>
+      <div class="swatch" onclick="navigator.clipboard.writeText('#00FF66')">
+        <div class="swatch-color" style="background:#00FF66"></div>
+        <div class="swatch-meta"><strong>#00FF66</strong><br/>Cybernetic Green (+1)</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>3. Product &amp; Project Vector SVG Logos (12 Flagships)</h2>
+    <div class="logo-grid">
+      <div class="logo-tile"><img src="../logos/products/svg/8b-is-engine.svg" alt="8b-is-engine"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/entheai.svg" alt="entheai"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/crush-love-dev.svg" alt="crush-love-dev"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/zenUltraCooker.svg" alt="zenUltraCooker"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/omnifold-ayePhone.svg" alt="omnifold-ayePhone"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/wa-stream.svg" alt="wa-stream"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/sphered.svg" alt="sphered"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/qwave-qultrakotoro.svg" alt="qwave-qultrakotoro"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/vaked-lsp-enthea.svg" alt="vaked-lsp-enthea"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/MLX-QUANT.svg" alt="MLX-QUANT"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/mem-16-10.svg" alt="mem-16-10"/></div>
+      <div class="logo-tile"><img src="../logos/products/svg/zeno.svg" alt="zeno"/></div>
+    </div>
+  </section>
+</main>
+</body>
+</html>

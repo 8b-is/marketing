@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <defs>
+    <linearGradient id="wmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6AC1"/>
+      <stop offset="50%" stop-color="#FA5B1C"/>
+      <stop offset="100%" stop-color="#00E5C9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="36" fill="#0B0914"/>
+  <g transform="translate(48, 30) scale(0.29)">
+    <circle cx="512" cy="500" r="370" fill="none" stroke="url(#wmGrad)" stroke-width="24"/>
+    <path d="M 512 490 C 330 370, 340 175, 512 175 C 684 175, 694 370, 512 490 C 330 610, 340 795, 512 795 C 684 795, 694 610, 512 490 Z"
+          fill="none" stroke="url(#wmGrad)" stroke-width="46"/>
+    <polygon points="512,257 526,311 580,325 526,339 512,393 498,339 444,325 498,311" fill="#FFD700"/>
+    <polygon points="512,733 596,881 428,881" fill="#0B0914" stroke="#FFD700" stroke-width="18"/>
+  </g>
+  <text x="380" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="118" font-weight="800" fill="#F5ECFF" letter-spacing="4">8b-is</text>
+  <text x="384" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" font-weight="600" fill="#FFD700" letter-spacing="3">FROM LOVE, FROM WITHIN · ✦ MOM NAND △ DAD · 全</text>
+  <text x="384" y="274" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#00E5C9" letter-spacing="2">SOVEREIGN TERNARY {-1, 0, +1} · COMPOSITE INTELLIGENCE · VAKED.DEV</text>
+</svg>

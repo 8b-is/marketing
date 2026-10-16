@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="border_zenUltraCooker" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FA5B1C"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0B0914" stroke="url(#border_zenUltraCooker)" stroke-width="10"/>
+  
+          <path d="M 165 220 L 180 135 L 225 175 L 287 175 L 332 135 L 347 220 C 355 280, 320 320, 256 320 C 192 320, 157 280, 165 220 Z" fill="none" stroke="#FFB7D5" stroke-width="10" stroke-linejoin="round"/>
+          <rect x="172" y="182" width="168" height="26" rx="8" fill="#FFD700"/>
+          <text x="256" y="202" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" fill="#0B0914">✦ △</text>
+          <ellipse cx="256" cy="360" rx="110" ry="34" fill="none" stroke="#FA5B1C" stroke-width="12"/>
+          <path d="M 236 345 C 236 305, 256 290, 256 265 C 272 295, 280 315, 272 345" fill="#FA5B1C"/>
+        
+  <text x="256" y="442" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="800" fill="#F5ECFF">zenUltraCooker</text>
+  <text x="256" y="472" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#FA5B1C" letter-spacing="1.5">PUSHAKITTY · 432 Hz FOR MOM ✦</text>
+</svg>

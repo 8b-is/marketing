@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="border_entheai" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF66"/>
+      <stop offset="100%" stop-color="#00E5C9"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#0B0914" stroke="url(#border_entheai)" stroke-width="10"/>
+  
+          <path d="M 140 260 C 140 160, 256 140, 256 210 C 256 140, 372 160, 372 260 C 372 340, 290 370, 256 390 C 222 370, 140 340, 140 260 Z" fill="none" stroke="#00FF66" stroke-width="12"/>
+          <path d="M 120 260 Q 188 190, 256 260 T 392 260" fill="none" stroke="#00E5C9" stroke-width="8"/>
+          <circle cx="200" cy="220" r="9" fill="#FFD700"/>
+          <circle cx="312" cy="220" r="9" fill="#FFD700"/>
+          <circle cx="256" cy="295" r="11" fill="#00FF66"/>
+        
+  <text x="256" y="442" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="800" fill="#F5ECFF">entheai</text>
+  <text x="256" y="472" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600" fill="#00FF66" letter-spacing="1.5">MEM|8 BITEMPORAL WAVE BRAIN</text>
+</svg>
